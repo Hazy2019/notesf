@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T10:32:32.926Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="sMr9a5dCmwPkfXltaqn9" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T01:51:05.777Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="TqECckpFtG7v7Ifh4MBb" version="14.4.6" type="github">
   <diagram id="FbwLlwbWRH05Lewgxh2s" name="Page-1">
-    <mxGraphModel dx="1373" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,10 +229,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w2J-vbRWopuXjTo6oVki-6" value="table_cache&lt;br&gt;（DBImpl::table_cache_）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="757.5" width="160" height="42.5" as="geometry" />
+          <mxGeometry x="770" y="772.5" width="160" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="w2J-vbRWopuXjTo6oVki-7" value="block_cache&lt;br&gt;(Options::table_factory)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="840" width="160" height="40" as="geometry" />
+          <mxGeometry x="770" y="855" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w2J-vbRWopuXjTo6oVki-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" source="w2J-vbRWopuXjTo6oVki-8" target="w2J-vbRWopuXjTo6oVki-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -293,6 +293,41 @@
         </mxCell>
         <mxCell id="w2J-vbRWopuXjTo6oVki-30" value="readonly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="10" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="BmIG0utsPpZP6nibNfxP-1" target="BmIG0utsPpZP6nibNfxP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="1532.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-1" value="DBOptions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1522.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="BmIG0utsPpZP6nibNfxP-2" target="BmIG0utsPpZP6nibNfxP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="BmIG0utsPpZP6nibNfxP-2" target="BmIG0utsPpZP6nibNfxP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-2" value="DBImpl::initial_db_options_" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="191" y="1522.5" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-4" value="SanitizeOptions" style="text;whiteSpace=wrap;html=1;fontStyle=2;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="1542.5" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;align=center;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=oval;startFill=1;" edge="1" parent="1" source="BmIG0utsPpZP6nibNfxP-5" target="BmIG0utsPpZP6nibNfxP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-5" value="DBImpl::immutable_db_options_" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1520" width="185" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-7" value="user provided opts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="40" y="1502.5" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-8" value="DBImpl::mutable_db_options_" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1552.5" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BmIG0utsPpZP6nibNfxP-10" value="+db_paths // 可配多个sst放置目录" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="1450" width="240" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
