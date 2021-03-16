@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T01:34:46.024Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zryN4yXqVJBZOhlASBuY" version="14.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-16T07:49:50.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="r3nGYSkFSSyzXxD0PlWn" version="14.4.8" type="github" pages="2">
   <diagram id="rF1MwXTdc4jmEzxah8Ti" name="Page-1">
-    <mxGraphModel dx="2039" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O3otxbp60ZKvFjplN36z-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;fontSize=10;fontColor=#000000;curved=1;strokeColor=#3399FF;" edge="1" parent="1" source="O3otxbp60ZKvFjplN36z-47" target="O3otxbp60ZKvFjplN36z-5">
+        <mxCell id="O3otxbp60ZKvFjplN36z-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;fontSize=10;fontColor=#000000;curved=1;strokeColor=#3399FF;" parent="1" source="O3otxbp60ZKvFjplN36z-47" target="O3otxbp60ZKvFjplN36z-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1116" y="180" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=10;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-3" target="O3otxbp60ZKvFjplN36z-36">
+        <mxCell id="O3otxbp60ZKvFjplN36z-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=10;fontColor=#000000;strokeColor=#666666;" parent="1" source="QR7xZ08MCez5D9Aat48U-3" target="O3otxbp60ZKvFjplN36z-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR7xZ08MCez5D9Aat48U-24" value="MGetHandle&lt;br&gt;MSetHandle&lt;br&gt;MDelHandle" style="text;html=1;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
@@ -24,15 +24,15 @@
         <mxCell id="QR7xZ08MCez5D9Aat48U-2" value="RTProxyThriftServer" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-10" y="10" width="151" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=10;fontColor=#666666;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-3" target="QR7xZ08MCez5D9Aat48U-34">
+        <mxCell id="O3otxbp60ZKvFjplN36z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=10;fontColor=#666666;" parent="1" source="QR7xZ08MCez5D9Aat48U-3" target="QR7xZ08MCez5D9Aat48U-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-29" value="mset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="O3otxbp60ZKvFjplN36z-28">
+        <mxCell id="O3otxbp60ZKvFjplN36z-29" value="mset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="O3otxbp60ZKvFjplN36z-28" vertex="1" connectable="0">
           <mxGeometry x="0.0244" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#666666;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-3" target="QR7xZ08MCez5D9Aat48U-39">
+        <mxCell id="O3otxbp60ZKvFjplN36z-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#666666;fontSize=10;fontColor=#000000;" parent="1" source="QR7xZ08MCez5D9Aat48U-3" target="QR7xZ08MCez5D9Aat48U-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="725" y="30" />
@@ -88,7 +88,7 @@
         <mxCell id="PAZwyhP7gUvUGwjnj05j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF9933;" parent="1" source="QR7xZ08MCez5D9Aat48U-24" target="QR7xZ08MCez5D9Aat48U-19" edge="1">
           <mxGeometry x="-10" y="-50" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-33" value="call Cb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="PAZwyhP7gUvUGwjnj05j-15">
+        <mxCell id="O3otxbp60ZKvFjplN36z-33" value="call Cb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" parent="PAZwyhP7gUvUGwjnj05j-15" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="6" as="offset" />
           </mxGeometry>
@@ -109,20 +109,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;fontSize=10;fontColor=#000000;strokeColor=#FFB570;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="QR7xZ08MCez5D9Aat48U-24">
+        <mxCell id="O3otxbp60ZKvFjplN36z-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;fontSize=10;fontColor=#000000;strokeColor=#FFB570;" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="QR7xZ08MCez5D9Aat48U-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1141" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;fontSize=10;fontColor=#000000;curved=1;strokeColor=#00FF00;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="O3otxbp60ZKvFjplN36z-57">
+        <mxCell id="O3otxbp60ZKvFjplN36z-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;fontSize=10;fontColor=#000000;curved=1;strokeColor=#00FF00;" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="O3otxbp60ZKvFjplN36z-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="QR7xZ08MCez5D9Aat48U-34">
+        <mxCell id="O3otxbp60ZKvFjplN36z-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=10;fontColor=#000000;" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="QR7xZ08MCez5D9Aat48U-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-65" value="&lt;span style=&quot;text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;WriteRTQueue&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="O3otxbp60ZKvFjplN36z-64">
+        <mxCell id="O3otxbp60ZKvFjplN36z-65" value="&lt;span style=&quot;text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;WriteRTQueue&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" parent="O3otxbp60ZKvFjplN36z-64" vertex="1" connectable="0">
           <mxGeometry x="-0.3205" y="-1" relative="1" as="geometry">
             <mxPoint x="-45" y="-4" as="offset" />
           </mxGeometry>
@@ -130,35 +130,35 @@
         <mxCell id="QR7xZ08MCez5D9Aat48U-29" value="rt::M[GS]etHandle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1091" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-34" target="QR7xZ08MCez5D9Aat48U-32">
+        <mxCell id="O3otxbp60ZKvFjplN36z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" parent="1" source="QR7xZ08MCez5D9Aat48U-34" target="QR7xZ08MCez5D9Aat48U-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-31" value="&lt;i&gt;write_mod == 2&lt;br&gt;write chunk&amp;nbsp; at first&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="O3otxbp60ZKvFjplN36z-30">
+        <mxCell id="O3otxbp60ZKvFjplN36z-31" value="&lt;i&gt;write_mod == 2&lt;br&gt;write chunk&amp;nbsp; at first&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" parent="O3otxbp60ZKvFjplN36z-30" vertex="1" connectable="0">
           <mxGeometry x="-0.2835" y="1" relative="1" as="geometry">
             <mxPoint x="-9.099999999999994" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-34" target="O3otxbp60ZKvFjplN36z-68">
+        <mxCell id="O3otxbp60ZKvFjplN36z-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" parent="1" source="QR7xZ08MCez5D9Aat48U-34" target="O3otxbp60ZKvFjplN36z-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR7xZ08MCez5D9Aat48U-34" value="RTQueue" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="843.25" y="200" width="133.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-28" target="O3otxbp60ZKvFjplN36z-7">
+        <mxCell id="O3otxbp60ZKvFjplN36z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" parent="1" source="QR7xZ08MCez5D9Aat48U-28" target="O3otxbp60ZKvFjplN36z-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#3399FF;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="O3otxbp60ZKvFjplN36z-47" target="O3otxbp60ZKvFjplN36z-23">
+        <mxCell id="O3otxbp60ZKvFjplN36z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#3399FF;fontSize=10;fontColor=#000000;" parent="1" source="O3otxbp60ZKvFjplN36z-47" target="O3otxbp60ZKvFjplN36z-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-25" value="&lt;i&gt;&lt;font color=&quot;#ff3333&quot;&gt;migrate mset&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="O3otxbp60ZKvFjplN36z-24">
+        <mxCell id="O3otxbp60ZKvFjplN36z-25" value="&lt;i&gt;&lt;font color=&quot;#ff3333&quot;&gt;migrate mset&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" parent="O3otxbp60ZKvFjplN36z-24" vertex="1" connectable="0">
           <mxGeometry x="0.8462" y="-1" relative="1" as="geometry">
             <mxPoint x="-147.1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-28" target="O3otxbp60ZKvFjplN36z-47">
+        <mxCell id="O3otxbp60ZKvFjplN36z-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" parent="1" source="QR7xZ08MCez5D9Aat48U-28" target="O3otxbp60ZKvFjplN36z-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-28" target="QR7xZ08MCez5D9Aat48U-29">
+        <mxCell id="O3otxbp60ZKvFjplN36z-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" parent="1" source="QR7xZ08MCez5D9Aat48U-28" target="QR7xZ08MCez5D9Aat48U-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR7xZ08MCez5D9Aat48U-28" value="RTChunk" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
@@ -177,11 +177,17 @@
         <mxCell id="QR7xZ08MCez5D9Aat48U-32" value="mget&lt;br&gt;mset" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="888.25" y="100" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IRpKfSjEpQl2twqhQrZb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-39" target="IRpKfSjEpQl2twqhQrZb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QR7xZ08MCez5D9Aat48U-39" value="RTMaster" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1383" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QR7xZ08MCez5D9Aat48U-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="QR7xZ08MCez5D9Aat48U-29" target="QR7xZ08MCez5D9Aat48U-39" edge="1">
           <mxGeometry x="-9" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IRpKfSjEpQl2twqhQrZb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QR7xZ08MCez5D9Aat48U-42" target="IRpKfSjEpQl2twqhQrZb-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR7xZ08MCez5D9Aat48U-42" value="AsyncIo" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1380" y="65" width="90" height="30" as="geometry" />
@@ -195,7 +201,7 @@
         <mxCell id="QR7xZ08MCez5D9Aat48U-58" value="ConcurrentMget" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF3333;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1310" y="60" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fmsoUChS3FppZIABQ6Wi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QR7xZ08MCez5D9Aat48U-21" edge="1" target="PAZwyhP7gUvUGwjnj05j-19">
+        <mxCell id="fmsoUChS3FppZIABQ6Wi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QR7xZ08MCez5D9Aat48U-21" target="PAZwyhP7gUvUGwjnj05j-19" edge="1">
           <mxGeometry x="670" y="-120" as="geometry">
             <mxPoint x="1540" y="-100" as="targetPoint" />
           </mxGeometry>
@@ -246,64 +252,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PAZwyhP7gUvUGwjnj05j-19" value="odin or maybech" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1507" y="-110" width="114" height="20" as="geometry" />
+          <mxGeometry x="1520" y="-110" width="114" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kg1A7lHlkPogU9T8J6Oo-1" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;L0 - 获取client ip逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L1 - 压测逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L2 - 单机版本逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L3 - 白名单检查和限流逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L4[ab] - [读/写]请求迁移逻辑&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;L5 - 请求切分逻辑&lt;br&gt;L6p - chunk状态对请求处理的影响&lt;br&gt;&lt;/font&gt;L6 - 请求处理逻辑&lt;br&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;i&gt;&lt;font size=&quot;1&quot;&gt;C1 - 线上没有del操作&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;C2 -&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 9px&quot;&gt;AsyncThrift都没有开启&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;C3 -&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 9px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;ProtoType都为&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;kThriftProto&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;C4 - req.ver = 101 hardcodede as migrate request&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;C5 - 并发数配置&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;concurrency_mget_part_cnt=2;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;concurrency_mset=1;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kg1A7lHlkPogU9T8J6Oo-1" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;L0 - 获取client ip逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L1 - 压测逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L2 - 单机版本逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L3 - 白名单检查和限流逻辑&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font size=&quot;1&quot;&gt;L4[ab] - [读/写]请求迁移逻辑&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;L5 - 请求切分逻辑&lt;br&gt;L6p - 请求处理初始化&lt;br&gt;&lt;/font&gt;L6 - 请求处理逻辑&lt;br&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;i&gt;&lt;font size=&quot;1&quot;&gt;C1 - 线上没有del操作&lt;/font&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;C2 -&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 9px&quot;&gt;AsyncThrift都没有开启&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;C3 -&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 9px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;ProtoType都为&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;kThriftProto&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;C4 - req.ver = 101 hardcodede as migrate request&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;C5 - 并发数配置&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;concurrency_mget_part_cnt=2;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;concurrency_mset=1;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="176.13" y="500" width="243.87" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-5" value="&lt;b&gt;[L4a]&lt;/b&gt;&lt;br&gt;MigrateMget核心逻辑：修改req的表名&lt;br&gt;&lt;br&gt;if req.ver != 101&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // 不重复修改&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp; conf.enable_migrate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// 开启迁移&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;ApolloManager::GetIOMGetSwitch&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// &lt;font color=&quot;#ff3333&quot;&gt;阿波罗&lt;/font&gt;表级切流百分比控制&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;(!table_name.migrate_rt_name.empty()) // 原始表cur_rt_name存在映射&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;req2 = const_cast&amp;lt;...&amp;gt;(req);&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;req2.ver = 101;&lt;/span&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;req2.rtname = table_name.migrate_rt_name;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;满足一定条件后，修改表名为映射表， 修改方向为 curr_*--&amp;gt;migrate_*&lt;/div&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-5" value="&lt;b&gt;[L4a]&lt;/b&gt;&lt;br&gt;MigrateMget核心逻辑：修改req的表名&lt;br&gt;&lt;br&gt;if req.ver != 101&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // 不重复修改&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp; conf.enable_migrate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// 开启迁移&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;ApolloManager::GetIOMGetSwitch&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// &lt;font color=&quot;#ff3333&quot;&gt;阿波罗&lt;/font&gt;表级切流百分比控制&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;(!table_name.migrate_rt_name.empty()) // 原始表cur_rt_name存在映射&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;req2 = const_cast&amp;lt;...&amp;gt;(req);&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;req2.ver = 101;&lt;/span&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;req2.rtname = table_name.migrate_rt_name;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;满足一定条件后，修改表名为映射表， 修改方向为 curr_*--&amp;gt;migrate_*&lt;/div&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="1180" y="290" width="440" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#FF3333;" edge="1" parent="1" source="O3otxbp60ZKvFjplN36z-7" target="O3otxbp60ZKvFjplN36z-15">
+        <mxCell id="O3otxbp60ZKvFjplN36z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#FF3333;" parent="1" source="O3otxbp60ZKvFjplN36z-7" target="O3otxbp60ZKvFjplN36z-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-7" value="ApolloManager" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-7" value="ApolloManager" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-20" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-12" value="in MigrateMset/MigrateMget：&lt;br&gt;if&amp;nbsp;&lt;span style=&quot;font-size: 12px ; font-style: normal&quot;&gt;server_conf().enable_migrate &amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;GetIOM[G/S]etSwitch(rtname)&lt;br&gt;&amp;nbsp; modify tablename&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF3333;verticalAlign=top;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-12" value="in MigrateMset/MigrateMget：&lt;br&gt;if&amp;nbsp;&lt;span style=&quot;font-size: 12px ; font-style: normal&quot;&gt;server_conf().enable_migrate &amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;GetIOM[G/S]etSwitch(rtname)&lt;br&gt;&amp;nbsp; modify tablename&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF3333;verticalAlign=top;fontStyle=2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1008" y="-55" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-15" value="apollo" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="1508" y="-15" width="54" height="20" as="geometry" />
+        <mxCell id="O3otxbp60ZKvFjplN36z-15" value="apollo" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="-15" width="54" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-22" value="&lt;b&gt;[L4b]&lt;/b&gt;&lt;br&gt;MigrateMset核心逻辑：构建1个双写请求,并封装为1个task交给一组event-thread异步地去做双写&lt;br&gt;&lt;br&gt;if &lt;b&gt;req.ver != 101&amp;nbsp;&lt;/b&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // 不重复修改&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp; conf.enable_migrate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// 开启迁移&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;ApolloManager::GetIOMSetSwitch&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//&amp;nbsp; &lt;font color=&quot;#ff3333&quot;&gt;阿波罗&lt;/font&gt;表级切流百分比控制&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;(!table_name.migrate_rt_name.empty()) // 原始表cur_rt_name存在映射&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp;req_migrate = new&amp;nbsp;RTMultiSetRequest(req)&lt;/div&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;req_migrate-&amp;gt;__set_ver(101);&lt;/span&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;req_migrate-&amp;gt;__set_rtname(table_name.migrate_rt_name);&lt;/div&gt;&amp;nbsp; &amp;nbsp;req_migrate-&amp;gt;&lt;span&gt;__set_hintCode((int64_t)DidiUtils::timems()); // hintCode在migrate请求中用于记录处理时间&lt;br&gt;&amp;nbsp; &amp;nbsp;event_thread_pool_ptr-&amp;gt;AddTask( new util::Task(&lt;/span&gt;req_migrate&lt;span&gt;)); // 封装为异步任务扔给另一组线程&lt;br&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-22" value="&lt;b&gt;[L4b]&lt;/b&gt;&lt;br&gt;MigrateMset核心逻辑：构建1个双写请求,并封装为1个task交给一组event-thread异步地去做双写&lt;br&gt;&lt;br&gt;if &lt;b&gt;req.ver != 101&amp;nbsp;&lt;/b&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // 不重复修改&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp; conf.enable_migrate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// 开启迁移&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;ApolloManager::GetIOMSetSwitch&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//&amp;nbsp; &lt;font color=&quot;#ff3333&quot;&gt;阿波罗&lt;/font&gt;表级切流百分比控制&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;amp;&amp;amp;(!table_name.migrate_rt_name.empty()) // 原始表cur_rt_name存在映射&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp;req_migrate = new&amp;nbsp;RTMultiSetRequest(req)&lt;/div&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;req_migrate-&amp;gt;__set_ver(101);&lt;/span&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;req_migrate-&amp;gt;__set_rtname(table_name.migrate_rt_name);&lt;/div&gt;&amp;nbsp; &amp;nbsp;req_migrate-&amp;gt;&lt;span&gt;__set_hintCode((int64_t)DidiUtils::timems()); // hintCode在migrate请求中用于记录处理时间&lt;br&gt;&amp;nbsp; &amp;nbsp;event_thread_pool_ptr-&amp;gt;AddTask( new util::Task(&lt;/span&gt;req_migrate&lt;span&gt;)); // 封装为异步任务扔给另一组线程&lt;br&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="1180" y="485" width="520" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-23" value="EventThreadPool" style="text;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-23" value="EventThreadPool" style="text;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#000000;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1368" y="-180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-32" value="mset" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-32" value="mset" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="O3otxbp60ZKvFjplN36z-36" target="O3otxbp60ZKvFjplN36z-40">
+        <mxCell id="O3otxbp60ZKvFjplN36z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" parent="1" source="O3otxbp60ZKvFjplN36z-36" target="O3otxbp60ZKvFjplN36z-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-36" value="RTDrainageZmq" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-36" value="RTDrainageZmq" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1383" y="250" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-40" value="zero-MQ" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-40" value="zero-MQ" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="1520" y="255" width="54" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-47" value="MIgrateM[gs]et" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-47" value="MIgrateM[gs]et" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1091" y="40" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-57" value="&lt;b&gt;[L5]&amp;nbsp;&lt;/b&gt;&lt;br&gt;SplitM[GS]etReq 请求切分核心逻辑: 对每个key哈希后拿到一个针对整个req的按partid整理后的请求map&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;mget_msg_map = {}&lt;/span&gt;&lt;br&gt;for keyi, keyi_fields in req.keys:&lt;br&gt;&amp;nbsp; &amp;nbsp;partid = crc32(keyi) % req.rtname.partition_count&lt;br&gt;&amp;nbsp; &amp;nbsp;mget_msg_map[partid].keys.append({keyi, keyi_fields})&lt;br&gt;&lt;br&gt;把所有的key（及其fields）组成一个按partid整理后的chunk-request-map.&lt;br&gt;(与fusion跨机房同步中1个滑动窗口的请求batch处理类似)" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#00FF00;" vertex="1" parent="1">
+        <mxCell id="O3otxbp60ZKvFjplN36z-57" value="&lt;b&gt;[L5]&amp;nbsp;&lt;/b&gt;&lt;br&gt;SplitM[GS]etReq 请求切分核心逻辑: 对每个key哈希后拿到一个按partid整理后的请求map&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;mget_msg_map = {}&lt;/span&gt;&lt;br&gt;for keyi, keyi_fields in req.keys:&lt;br&gt;&amp;nbsp; &amp;nbsp;partid = crc32(keyi) % req.rtname.partition_count&lt;br&gt;&amp;nbsp; &amp;nbsp;mget_msg_map[partid].keys.append({keyi, keyi_fields})&lt;br&gt;&lt;br&gt;把所有的key（及其fields）组成一个按partid整理后的chunk-request-map.&lt;br&gt;(与fusion跨机房同步中1个滑动窗口的请求batch处理类似)" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="1180" y="770" width="520" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-59" value="&lt;b&gt;[L6]&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;DoSyncM[GS]et:&lt;/i&gt;&lt;/span&gt;&lt;br&gt;对mget_msg_map中每个请求，&lt;br&gt;&amp;nbsp; - 同步Send到对应的连接fd中&lt;br&gt;&amp;nbsp; - 全部请求Send完成后，再同步地Recv对应连接&lt;br&gt;&lt;br&gt;若key数目大于配置中的触发concurrent的个数，就走并行get/set&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;ConcurrencyM[GS]et:&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&amp;nbsp; - 对mget_msg_map中每个请求，由多条线程同时进行同步的Send和Recv&lt;br&gt;&amp;nbsp; - 同步方式是条件变量+mutex,多条线程竞争一个job队列&lt;br&gt;&amp;nbsp; - concurrentmset：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- 并发任务粒度是key&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- 根据决定是否写RTQueue，如果为0表示没有replica写失败，反之，有某个副本失败，需要写RTQueue.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;MergeM[GS]etRsp:&lt;/i&gt;&lt;br&gt;把&lt;/span&gt;mget_msg_map中的响应结果还原到每个请求中&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="1080" width="526" height="280" as="geometry" />
+        <mxCell id="O3otxbp60ZKvFjplN36z-59" value="&lt;b&gt;[L6]&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;DoSyncM[GS]et:&lt;/i&gt;&lt;/span&gt;&lt;br&gt;对mget_msg_map中每个请求，&lt;br&gt;&amp;nbsp; - 同步Send到对应的连接fd中&lt;br&gt;&amp;nbsp; - 全部请求Send完成后，再同步地Recv对应连接&lt;br&gt;&lt;br&gt;若key数目大于配置中的触发concurrent的个数，就走并行get/set&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;ConcurrencyM[GS]et:&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&amp;nbsp; - 对mget_msg_map中每个请求，由多条线程同时进行同步的Send和Recv&lt;br&gt;&amp;nbsp; - 同步方式是条件变量+mutex,多条线程竞争一个job队列&lt;br&gt;&amp;nbsp; - concurrentmget:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- 读随机的某个副本&lt;br&gt;&amp;nbsp; - concurrentmset：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- 初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; a. 需要写所有副本，需要对每个副本构造一个写请求：partid --&amp;gt; reqs --&amp;gt; replica_num&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; b. 在上一步构造时，会去取trp对应的chunkserver的状态chunk-status，假如这个状态是不可写，则不构造对应的连接cli&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - 下发请求：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 并行地下发所有请求，如果cli为空（初始化失败的），记录错误&lt;br&gt;&amp;nbsp; - writequeue:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; -上一步有某个副本失败，需要写queue.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;MergeM[GS]etRsp:&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;- 把&lt;/span&gt;mget_msg_map中的响应结果还原到每个请求中，返回客户端&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="1174" y="1040" width="526" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-67" value="[L6p]&lt;br&gt;RTChunkMSetMsg::Init&lt;br&gt;会" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;dashed=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="950" width="526" height="120" as="geometry" />
+        <mxCell id="O3otxbp60ZKvFjplN36z-67" value="&lt;b&gt;[L6p]&lt;/b&gt;&lt;br&gt;mget/mset请求初始化后端连接：&lt;br&gt;&amp;nbsp; mget:初始化到partid所在分片的随机一个副本上（会排除位于不可读chunkserver上的副本）&lt;br&gt;&amp;nbsp; mset:初始化partid所在分片的所有副本（跳过不可写的chunkserver上的trp)" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;dashed=1;strokeColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="1174" y="950" width="526" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O3otxbp60ZKvFjplN36z-68" value="Kafka" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="1493" y="208" width="54" height="20" as="geometry" />
+        <mxCell id="O3otxbp60ZKvFjplN36z-68" value="rt-queue集群&lt;br&gt;(kafka)" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CCFF99;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="200" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IRpKfSjEpQl2twqhQrZb-2" value="rt-master集群" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="150" width="82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IRpKfSjEpQl2twqhQrZb-4" value="chunk集群" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="80" width="82" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8oMIxqJ-qyGhlatnoR5w" name="Page-2">
-    <mxGraphModel dx="1380" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Tn1ohRrdiH-o5o0TiGEh-0" />
         <mxCell id="Tn1ohRrdiH-o5o0TiGEh-1" parent="Tn1ohRrdiH-o5o0TiGEh-0" />
