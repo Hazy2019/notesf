@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:01:45.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jwYBwdqf7SkBeAovUFk_" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-26T10:04:17.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CIrYczowecn_DvPFLlva" version="14.4.9" type="github" pages="2">
   <diagram id="FbwLlwbWRH05Lewgxh2s" name="Page-1">
     <mxGraphModel dx="900" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -588,16 +588,16 @@
           <mxGeometry x="75" y="2250" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I2q3wTFt1OIFfwhHb9nE-1" value="blockcache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="596" y="2590" width="70" height="30" as="geometry" />
+          <mxGeometry x="700" y="2590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I2q3wTFt1OIFfwhHb9nE-2" value="blockkey：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="626" y="2640" width="40" height="20" as="geometry" />
+          <mxGeometry x="730" y="2640" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I2q3wTFt1OIFfwhHb9nE-4" value="kMaxCacheKeyPrefixSize" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="2690" width="160" height="30" as="geometry" />
+          <mxGeometry x="775" y="2690" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I2q3wTFt1OIFfwhHb9nE-5" value="kMaxVarint64Length" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="841" y="2690" width="130" height="30" as="geometry" />
+          <mxGeometry x="945" y="2690" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I2q3wTFt1OIFfwhHb9nE-6" value="Get流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="127" y="2350" width="103" height="20" as="geometry" />
@@ -622,6 +622,21 @@
         </mxCell>
         <mxCell id="I2q3wTFt1OIFfwhHb9nE-13" value="GetTableReader" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-14" value="NewRandomAccessFile" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="2580" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-15" value="NewTableReader" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-16" value="BlockBasedTableFactory" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2670" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-17" value="TableFactory" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-19" value="BlockBasedTable::Rep" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2610" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
