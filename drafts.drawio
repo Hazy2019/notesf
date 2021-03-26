@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T05:08:10.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7v9vdx_J9zhza-Jz7jIa" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:01:45.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jwYBwdqf7SkBeAovUFk_" version="14.4.9" type="github" pages="2">
   <diagram id="FbwLlwbWRH05Lewgxh2s" name="Page-1">
-    <mxGraphModel dx="967" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="900" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,7 +555,7 @@
           <mxGeometry x="185.75" y="2100" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ad360YlziIJmYtsWJfq-88" value="1. for all wal:&lt;br&gt;&amp;nbsp; &amp;nbsp;- filter by log_number(小于memtable的lognumber的wal会在回放中被过滤掉)&lt;br&gt;&amp;nbsp; &amp;nbsp;- replay wal to insertinto memtable&lt;br&gt;&lt;br&gt;2.&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#666666;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="204" y="2120" width="279" height="140" as="geometry" />
+          <mxGeometry x="204" y="2120" width="279" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-ad360YlziIJmYtsWJfq-89" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;read MAINIFEST&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=7;fontColor=#000000;fontStyle=2;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="195" y="1940" width="120" height="20" as="geometry" />
@@ -578,14 +578,50 @@
         <mxCell id="-ad360YlziIJmYtsWJfq-98" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 7px ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;filter logic locates in :&lt;br&gt;MemTableInserter::SeekToColumnFamily()&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=7;fontColor=#000000;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="750" y="2125" width="223.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Fjlbc6nLXtdTHM42SzkJ-1" value="4. create a new log" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Fjlbc6nLXtdTHM42SzkJ-1" value="4. create a new log" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="2210" width="205" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Fjlbc6nLXtdTHM42SzkJ-2" value="5. create a new superversion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Fjlbc6nLXtdTHM42SzkJ-2" value="5. create a new superversion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="2230" width="205" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Fjlbc6nLXtdTHM42SzkJ-3" value="6. DBImpl::DeleteObsoleteFiles" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fjlbc6nLXtdTHM42SzkJ-3" value="6. DBImpl::DeleteObsoleteFiles" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="2250" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-1" value="blockcache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="596" y="2590" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-2" value="blockkey：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="626" y="2640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-4" value="kMaxCacheKeyPrefixSize" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="2690" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-5" value="kMaxVarint64Length" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841" y="2690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-6" value="Get流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="127" y="2350" width="103" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-7" value="构造superversion&lt;br&gt;GetAndRefSuperVersion" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2390" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-8" value="mem get" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185.75" y="2440" width="52" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-9" value="imm get" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185.75" y="2470" width="52" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-10" value="current get" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180.75" y="2490" width="74.25" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-11" value="table_cache get" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2530" width="108.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-12" value="filepicker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="2510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2q3wTFt1OIFfwhHb9nE-13" value="GetTableReader" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="2550" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
